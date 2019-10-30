@@ -1685,3 +1685,2202 @@ Message:
 [BS] Reloading Browsers...
 [12:39:30] Finished 'views' after 215 ms
 [BS] Reloading Browsers...
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[05:10:28] Using gulpfile ~/nishikant/Hygieia/UI/gulpfile.js
+[05:10:28] Starting 'build'...
+[05:10:28] Starting 'clean'...
+[05:10:28] 'clean' errored after 27 ms
+[05:10:28] Error in plugin 'gulp-clean'
+Unable to delete "/home/engguser/nishikant/Hygieia/UI/dist" file (EACCES: permission denied, unlink '/home/engguser/nishikant/Hygieia/UI/dist/404.html').
+[05:10:28] 'build' errored after 29 ms
+[05:10:28] Error in plugin 'run-sequence'
+Message:
+    An error occured in task 'clean'.
+[05:15:22] Using gulpfile /home/engguser/nishikant/Hygieia/UI/gulpfile.js
+[05:15:22] Starting 'build'...
+[05:15:22] Starting 'clean'...
+[05:15:22] Finished 'clean' after 66 ms
+[05:15:22] Starting 'assets'...
+[05:15:22] Starting 'themes'...
+[05:15:22] Starting 'fonts'...
+[05:15:22] Starting 'js'...
+[05:15:22] Starting 'views'...
+[05:15:22] Starting 'test-data'...
+[05:15:31] Finished 'themes' after 9.74 s
+[05:15:32] Finished 'assets' after 9.8 s
+[05:15:32] Finished 'views' after 9.99 s
+[05:15:32] Finished 'js' after 10 s
+[05:15:32] Finished 'test-data' after 10 s
+[05:15:44] Finished 'fonts' after 22 s
+[05:15:44] Starting 'html'...
+[05:15:44] gulp-inject 29 files into index.html.
+[05:15:44] gulp-inject 172 files into index.html.
+[05:15:44] Finished 'html' after 154 ms
+[05:15:44] Finished 'build' after 22 s
+[05:15:44] Starting 'serve'...
+[05:15:44] Finished 'serve' after 140 ms
+[BS] Local URL: http://localhost:3000
+[BS] External URL: http://10.50.150.55:3000
+[BS] Serving files from: dist/
+[06:03:01] Using gulpfile ~/nishikant/Hygieia/UI/gulpfile.js
+[06:03:01] Starting 'build'...
+[06:03:01] Starting 'clean'...
+[06:03:01] 'clean' errored after 27 ms
+[06:03:01] Error in plugin 'gulp-clean'
+Unable to delete "/home/engguser/nishikant/Hygieia/UI/dist" file (EACCES: permission denied, unlink '/home/engguser/nishikant/Hygieia/UI/dist/404.html').
+[06:03:01] 'build' errored after 29 ms
+[06:03:01] Error in plugin 'run-sequence'
+Message:
+    An error occured in task 'clean'.
+[06:03:34] Using gulpfile /home/engguser/nishikant/Hygieia/UI/gulpfile.js
+[06:03:34] Starting 'build'...
+[06:03:34] Starting 'clean'...
+[06:03:34] Finished 'clean' after 60 ms
+[06:03:34] Starting 'assets'...
+[06:03:34] Starting 'themes'...
+[06:03:34] Starting 'fonts'...
+[06:03:34] Starting 'js'...
+[06:03:34] Starting 'views'...
+[06:03:34] Starting 'test-data'...
+[06:03:43] Finished 'themes' after 9 s
+[06:03:43] Finished 'assets' after 9.03 s
+[06:03:43] Finished 'views' after 9.24 s
+[06:03:44] Finished 'js' after 9.3 s
+[06:03:44] Finished 'test-data' after 9.35 s
+[06:03:54] Finished 'fonts' after 20 s
+[06:03:54] Starting 'html'...
+[06:03:54] gulp-inject 29 files into index.html.
+[06:03:54] gulp-inject 172 files into index.html.
+[06:03:54] Finished 'html' after 151 ms
+[06:03:54] Finished 'build' after 20 s
+[06:03:54] Starting 'serve'...
+[06:03:55] Finished 'serve' after 142 ms
+[BS] Local URL: http://localhost:3000
+[BS] External URL: http://10.50.150.55:3000
+[BS] Serving files from: dist/
+[23:35:29] Using gulpfile /home/engguser/nishikant/Hygieia/UI/gulpfile.js
+[23:35:29] Starting 'build'...
+[23:35:29] Starting 'clean'...
+[23:35:29] Finished 'clean' after 75 ms
+[23:35:29] Starting 'assets'...
+[23:35:29] Starting 'themes'...
+[23:35:29] Starting 'fonts'...
+[23:35:29] Starting 'js'...
+[23:35:29] Starting 'views'...
+[23:35:29] Starting 'test-data'...
+[23:35:37] Finished 'themes' after 8.09 s
+[23:35:37] Finished 'assets' after 8.13 s
+[23:35:37] Finished 'views' after 8.26 s
+[23:35:37] Finished 'test-data' after 8.38 s
+[23:35:37] Finished 'js' after 8.39 s
+[23:36:05] Finished 'fonts' after 36 s
+[23:36:05] Starting 'html'...
+[23:36:05] gulp-inject 29 files into index.html.
+[23:36:05] gulp-inject 172 files into index.html.
+[23:36:05] Finished 'html' after 145 ms
+[23:36:05] Finished 'build' after 36 s
+[23:36:05] Starting 'serve'...
+[23:36:05] Finished 'serve' after 148 ms
+[BS] Local URL: http://localhost:3000
+[BS] Serving files from: dist/
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[02:47:40] Using gulpfile /home/engguser/nishikant/Hygieia/UI/gulpfile.js
+[02:47:40] Task 'server' is not in your gulpfile
+[02:47:40] Please check the documentation for proper gulpfile formatting
+[02:48:28] Using gulpfile /home/engguser/nishikant/Hygieia/UI/gulpfile.js
+[02:48:28] Starting 'build'...
+[02:48:28] Starting 'clean'...
+[02:48:28] Finished 'clean' after 27 ms
+[02:48:28] Starting 'assets'...
+[02:48:28] Starting 'themes'...
+[02:48:28] Starting 'fonts'...
+[02:48:28] Starting 'js'...
+[02:48:28] Starting 'views'...
+[02:48:28] Starting 'test-data'...
+[02:48:35] Finished 'themes' after 7.81 s
+[02:48:36] Finished 'assets' after 7.88 s
+[02:48:36] Finished 'views' after 8.09 s
+[02:48:36] Finished 'test-data' after 8.17 s
+[02:48:36] Finished 'js' after 8.28 s
+[02:49:09] Finished 'fonts' after 42 s
+[02:49:09] Starting 'html'...
+[02:49:09] gulp-inject 29 files into index.html.
+[02:49:09] gulp-inject 172 files into index.html.
+[02:49:09] Finished 'html' after 173 ms
+[02:49:09] Finished 'build' after 42 s
+[02:49:09] Starting 'serve'...
+[02:49:10] Finished 'serve' after 140 ms
+[BS] Local URL: http://localhost:3000
+[BS] External URL: http://10.50.150.55:3000
+[BS] Serving files from: dist/
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[01:54:35] Starting 'views'...
+[01:54:35] Finished 'views' after 151 ms
+[BS] Reloading Browsers...
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[Proxy] { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[Proxy] { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[03:29:20] Using gulpfile /home/engguser/nishikant/Hygieia/UI/gulpfile.js
+[03:29:20] Starting 'build'...
+[03:29:20] Starting 'clean'...
+[03:29:20] Finished 'clean' after 52 ms
+[03:29:20] Starting 'assets'...
+[03:29:20] Starting 'themes'...
+[03:29:20] Starting 'fonts'...
+[03:29:20] Starting 'js'...
+[03:29:20] Starting 'views'...
+[03:29:20] Starting 'test-data'...
+[03:29:28] Finished 'themes' after 8.11 s
+[03:29:28] Finished 'assets' after 8.15 s
+[03:29:28] Finished 'views' after 8.25 s
+[03:29:29] Finished 'js' after 8.38 s
+[03:29:29] Finished 'test-data' after 8.44 s
+[03:29:52] Finished 'fonts' after 32 s
+[03:29:52] Starting 'html'...
+[03:29:52] gulp-inject 29 files into index.html.
+[03:29:52] gulp-inject 172 files into index.html.
+[03:29:52] Finished 'html' after 173 ms
+[03:29:52] Finished 'build' after 32 s
+[03:29:52] Starting 'serve'...
+[03:29:52] Finished 'serve' after 140 ms
+[BS] Local URL: http://localhost:3000
+[BS] External URL: http://10.50.150.55:3000
+[BS] Serving files from: dist/
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[09:50:18] Using gulpfile /home/engguser/nishikant/Hygieia/UI/gulpfile.js
+[09:50:18] Starting 'build'...
+[09:50:18] Starting 'clean'...
+[09:50:18] Finished 'clean' after 49 ms
+[09:50:18] Starting 'assets'...
+[09:50:18] Starting 'themes'...
+[09:50:18] Starting 'fonts'...
+[09:50:18] Starting 'js'...
+[09:50:18] Starting 'views'...
+[09:50:18] Starting 'test-data'...
+[09:50:26] Finished 'themes' after 7.83 s
+[09:50:26] Finished 'assets' after 7.89 s
+[09:50:26] Finished 'views' after 8 s
+[09:50:26] Finished 'js' after 8.14 s
+[09:50:26] Finished 'test-data' after 8.17 s
+[09:50:32] Finished 'fonts' after 14 s
+[09:50:32] Starting 'html'...
+[09:50:32] gulp-inject 29 files into index.html.
+[09:50:32] gulp-inject 172 files into index.html.
+[09:50:32] Finished 'html' after 140 ms
+[09:50:32] Finished 'build' after 14 s
+[09:50:32] Starting 'serve'...
+[09:50:33] Finished 'serve' after 134 ms
+[BS] Local URL: http://localhost:3000
+[BS] External URL: http://10.50.150.55:3000
+[BS] Serving files from: dist/
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[11:38:24] Using gulpfile /home/engguser/nishikant/Hygieia/UI/gulpfile.js
+[11:38:24] Starting 'build'...
+[11:38:24] Starting 'clean'...
+[11:38:24] Finished 'clean' after 56 ms
+[11:38:24] Starting 'assets'...
+[11:38:24] Starting 'themes'...
+[11:38:24] Starting 'fonts'...
+[11:38:24] Starting 'js'...
+[11:38:24] Starting 'views'...
+[11:38:24] Starting 'test-data'...
+[11:38:32] Finished 'themes' after 8.14 s
+[11:38:32] Finished 'assets' after 8.2 s
+[11:38:32] Finished 'views' after 8.34 s
+[11:38:32] Finished 'js' after 8.5 s
+[11:38:32] Finished 'test-data' after 8.52 s
+[11:38:39] Finished 'fonts' after 15 s
+[11:38:39] Starting 'html'...
+[11:38:39] gulp-inject 29 files into index.html.
+[11:38:39] gulp-inject 172 files into index.html.
+[11:38:39] Finished 'html' after 149 ms
+[11:38:39] Finished 'build' after 16 s
+[11:38:39] Starting 'serve'...
+[11:38:39] Finished 'serve' after 137 ms
+[BS] Local URL: http://localhost:3000
+[BS] External URL: http://10.50.150.55:3000
+[BS] Serving files from: dist/
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[12:07:19] Starting 'views'...
+[12:07:20] Finished 'views' after 151 ms
+[BS] Reloading Browsers...
+[12:10:47] Starting 'views'...
+[12:10:47] Finished 'views' after 140 ms
+[BS] Reloading Browsers...
+[12:12:40] Starting 'views'...
+[12:12:41] Finished 'views' after 166 ms
+[BS] Reloading Browsers...
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[03:21:28] Using gulpfile /home/engguser/nishikant/Hygieia/UI/gulpfile.js
+[03:21:28] Starting 'build'...
+[03:21:28] Starting 'clean'...
+[03:21:28] Finished 'clean' after 51 ms
+[03:21:28] Starting 'assets'...
+[03:21:28] Starting 'themes'...
+[03:21:28] Starting 'fonts'...
+[03:21:28] Starting 'js'...
+[03:21:28] Starting 'views'...
+[03:21:28] Starting 'test-data'...
+[03:21:36] Finished 'themes' after 7.79 s
+[03:21:36] Finished 'assets' after 7.87 s
+[03:21:36] Finished 'views' after 7.98 s
+[03:21:36] Finished 'js' after 8.12 s
+[03:21:36] Finished 'test-data' after 8.15 s
+[03:21:43] Finished 'fonts' after 15 s
+[03:21:43] Starting 'html'...
+[03:21:43] gulp-inject 29 files into index.html.
+[03:21:43] gulp-inject 172 files into index.html.
+[03:21:43] Finished 'html' after 144 ms
+[03:21:43] Finished 'build' after 15 s
+[03:21:43] Starting 'serve'...
+[03:21:43] Finished 'serve' after 137 ms
+[BS] Local URL: http://localhost:3000
+[BS] External URL: http://10.50.150.55:3000
+[BS] Serving files from: dist/
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[Proxy] { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[Proxy] { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[Proxy] { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[Proxy] { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: connect ECONNREFUSED 127.0.0.1:8080
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8080 }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
+[Proxy] { Error: socket hang up
+    at createHangUpError (_http_client.js:323:15)
+    at Socket.socketCloseListener (_http_client.js:364:25)
+    at Socket.emit (events.js:203:15)
+    at TCP._handle.close (net.js:606:12) code: 'ECONNRESET' }
